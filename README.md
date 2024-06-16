@@ -1,6 +1,6 @@
-# LLD-StockExchange ( Just core order matching logic )
+# LLD-StockExchange
 
-Implement an order matching system for a stock exchange. 
+Implement an order matching system for a stock exchange. ( Just core order matching logic )
 
 Traders place Buy and Sell orders for a stock indicating the price and quantity.
 
